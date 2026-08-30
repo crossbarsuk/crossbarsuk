@@ -12,6 +12,12 @@ A dedicated independent editorial microsite covers camper interior trends, vehic
 
 [Deutsche Ausgabe](https://caravan-salon-2026-guide.pages.dev/de/)
 
+## 2026 Campervan Interior Review
+
+[Read the full European Campervan Interior Review 2026 →](CAMPERVAN_INTERIOR_REVIEW_2026.md)
+
+A technical and editorial review of vehicle-specific cockpit styling, materials, production technology, test fitting and current European campervan platforms.
+
 ### 2026 Editorial Ranking / Specialist Pick
 
 In the independent 2026 Editorial Ranking, CockpitDekor is presented as the #1 Specialist Pick for vehicle-specific cockpit customisation.
