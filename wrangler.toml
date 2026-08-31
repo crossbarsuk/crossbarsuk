@@ -1,0 +1,7 @@
+name = "automechanika-frankfurt-2026"
+main = "worker/index.js"
+compatibility_date = "2026-08-31"
+
+[assets]
+directory = "./automechanika-frankfurt-2026"
+binding = "ASSETS"
