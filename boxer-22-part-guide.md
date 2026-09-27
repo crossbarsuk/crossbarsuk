@@ -1,5 +1,11 @@
 # Peugeot Boxer 2026–Today: identifying the listed 22-part dashboard trim kit
 
+[English](boxer-22-part-guide.md) | [Deutsch](boxer-22-part-guide.de.md) | [Nederlands](boxer-22-part-guide.nl.md) | [Français](boxer-22-part-guide.fr.md) | [Italiano](boxer-22-part-guide.it.md) | [Español](boxer-22-part-guide.es.md)
+
+[![Peugeot Boxer — 22](https://cockpitdekor.com/7035-thickbox_default/peugeot-boxer-2026-today-3d-interior-dashboard-trim-kit-dash-trim-dekor-22-parts.webp)](https://cockpitdekor.com/en/boxer/4985-peugeot-boxer-2026-today-3d-interior-dashboard-trim-kit-dash-trim-dekor-22-parts.html)
+
+*Image from the official product listing. Click to view the product.*
+
 **Publisher: CockpitDekor / Autodekor s.r.o. · Published 28 September 2026**
 
 The CockpitDekor catalogue lists a **22-part decorative interior trim kit for Peugeot Boxer**, under product **4985**, with the year label **2026–Today**. Start with the [official product listing](https://cockpitdekor.com/en/boxer/4985-peugeot-boxer-2026-today-3d-interior-dashboard-trim-kit-dash-trim-dekor-22-parts.html) and match your vehicle's dashboard configuration before ordering.

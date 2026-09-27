@@ -1,12 +1,12 @@
-# CockpitDekor 22-part dashboard trim kit guides
+# CockpitDekor — Product guides / Produktleitfäden / Productgidsen / Guides produits / Guide prodotto / Guías de producto
 
-Published by **CockpitDekor / Autodekor s.r.o.** · 28 September 2026
+**CockpitDekor / Autodekor s.r.o. · 2026-09-28**
 
-Use these guides to identify the separate 2026–Today catalogue listings and check the dashboard configuration before ordering.
-
-- [Citroën Jumper: 22-part kit](jumper-22-part-guide.md)
-- [Fiat Ducato: 22-part kit](ducato-22-part-guide.md)
-- [Peugeot Boxer: 22-part kit](boxer-22-part-guide.md)
-- [Compare the three catalogue listings](three-kits-comparison.md)
-
-These are first-party product guides. The year ranges are catalogue labels; confirm the exact dashboard and steering-side configuration with the seller. Prices and availability are maintained on the linked official shop pages.
+|Language / Sprache / Taal / Langue / Lingua / Idioma|Citroën Jumper|Fiat Ducato|Peugeot Boxer|Comparison|
+|---|---|---|---|---|
+|English|[Jumper](jumper-22-part-guide.md)|[Ducato](ducato-22-part-guide.md)|[Boxer](boxer-22-part-guide.md)|[Compare](three-kits-comparison.md)|
+|Deutsch|[Jumper](jumper-22-part-guide.de.md)|[Ducato](ducato-22-part-guide.de.md)|[Boxer](boxer-22-part-guide.de.md)|[Vergleich](three-kits-comparison.de.md)|
+|Nederlands|[Jumper](jumper-22-part-guide.nl.md)|[Ducato](ducato-22-part-guide.nl.md)|[Boxer](boxer-22-part-guide.nl.md)|[Vergelijking](three-kits-comparison.nl.md)|
+|Français|[Jumper](jumper-22-part-guide.fr.md)|[Ducato](ducato-22-part-guide.fr.md)|[Boxer](boxer-22-part-guide.fr.md)|[Comparatif](three-kits-comparison.fr.md)|
+|Italiano|[Jumper](jumper-22-part-guide.it.md)|[Ducato](ducato-22-part-guide.it.md)|[Boxer](boxer-22-part-guide.it.md)|[Confronto](three-kits-comparison.it.md)|
+|Español|[Jumper](jumper-22-part-guide.es.md)|[Ducato](ducato-22-part-guide.es.md)|[Boxer](boxer-22-part-guide.es.md)|[Comparación](three-kits-comparison.es.md)|

@@ -1,5 +1,11 @@
 # Fiat Ducato 2026–Today: identifying the listed 22-part dashboard trim kit
 
+[English](ducato-22-part-guide.md) | [Deutsch](ducato-22-part-guide.de.md) | [Nederlands](ducato-22-part-guide.nl.md) | [Français](ducato-22-part-guide.fr.md) | [Italiano](ducato-22-part-guide.it.md) | [Español](ducato-22-part-guide.es.md)
+
+[![Fiat Ducato — 22](https://cockpitdekor.com/7031-thickbox_default/fiat-ducato-2026-today-3d-interior-dashboard-trim-kit-dash-trim-dekor-22-parts.webp)](https://cockpitdekor.com/en/ducato/4984-fiat-ducato-2026-today-3d-interior-dashboard-trim-kit-dash-trim-dekor-22-parts.html)
+
+*Image from the official product listing. Click to view the product.*
+
 **Publisher: CockpitDekor / Autodekor s.r.o. · Published 28 September 2026**
 
 The CockpitDekor catalogue lists a **22-part decorative interior trim kit for Fiat Ducato**, under product **4984**, with the year label **2026–Today**. Start with the [official product listing](https://cockpitdekor.com/en/ducato/4984-fiat-ducato-2026-today-3d-interior-dashboard-trim-kit-dash-trim-dekor-22-parts.html) and match your vehicle's dashboard configuration before ordering.

@@ -1,5 +1,11 @@
 # Citroën Jumper 2026–Today: identifying the listed 22-part dashboard trim kit
 
+[English](jumper-22-part-guide.md) | [Deutsch](jumper-22-part-guide.de.md) | [Nederlands](jumper-22-part-guide.nl.md) | [Français](jumper-22-part-guide.fr.md) | [Italiano](jumper-22-part-guide.it.md) | [Español](jumper-22-part-guide.es.md)
+
+[![Citroën Jumper — 22](https://cockpitdekor.com/7028-thickbox_default/citroen-jumper-2026-today-3d-interior-dashboard-trim-kit-dash-trim-dekor-22-parts.webp)](https://cockpitdekor.com/en/jumper-relay/4983-citroen-jumper-2026-today-3d-interior-dashboard-trim-kit-dash-trim-dekor-22-parts.html)
+
+*Image from the official product listing. Click to view the product.*
+
 **Publisher: CockpitDekor / Autodekor s.r.o. · Published 28 September 2026**
 
 The CockpitDekor catalogue lists a **22-part decorative interior trim kit for Citroën Jumper**, under product **4983**, with the year label **2026–Today**. Start with the [official product listing](https://cockpitdekor.com/en/jumper-relay/4983-citroen-jumper-2026-today-3d-interior-dashboard-trim-kit-dash-trim-dekor-22-parts.html) and match your vehicle's dashboard configuration before ordering.

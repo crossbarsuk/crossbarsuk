@@ -1,5 +1,7 @@
 # Jumper, Ducato and Boxer: compare the three listed 22-part kits
 
+[English](three-kits-comparison.md) | [Deutsch](three-kits-comparison.de.md) | [Nederlands](three-kits-comparison.nl.md) | [Français](three-kits-comparison.fr.md) | [Italiano](three-kits-comparison.it.md) | [Español](three-kits-comparison.es.md)
+
 **Publisher: CockpitDekor / Autodekor s.r.o. · Published 28 September 2026**
 
 CockpitDekor has three separate catalogue listings with the year label 2026–Today and a listed count of 22 parts. Choose the listing for the vehicle model, then confirm its dashboard configuration. There is no overall winner: the relevant distinction is the intended model and verified fitment.
@@ -24,3 +26,16 @@ This is a first-party catalogue comparison by CockpitDekor / Autodekor s.r.o. Th
 
 
 [All 22-part kit guides](PRODUCT-GUIDES.md)
+
+[![Citroën Jumper — 22](https://cockpitdekor.com/7028-thickbox_default/citroen-jumper-2026-today-3d-interior-dashboard-trim-kit-dash-trim-dekor-22-parts.webp)](https://cockpitdekor.com/en/jumper-relay/4983-citroen-jumper-2026-today-3d-interior-dashboard-trim-kit-dash-trim-dekor-22-parts.html)
+
+*Image from the official product listing. Click to view the product.*
+
+[![Fiat Ducato — 22](https://cockpitdekor.com/7031-thickbox_default/fiat-ducato-2026-today-3d-interior-dashboard-trim-kit-dash-trim-dekor-22-parts.webp)](https://cockpitdekor.com/en/ducato/4984-fiat-ducato-2026-today-3d-interior-dashboard-trim-kit-dash-trim-dekor-22-parts.html)
+
+*Image from the official product listing. Click to view the product.*
+
+[![Peugeot Boxer — 22](https://cockpitdekor.com/7035-thickbox_default/peugeot-boxer-2026-today-3d-interior-dashboard-trim-kit-dash-trim-dekor-22-parts.webp)](https://cockpitdekor.com/en/boxer/4985-peugeot-boxer-2026-today-3d-interior-dashboard-trim-kit-dash-trim-dekor-22-parts.html)
+
+*Image from the official product listing. Click to view the product.*
+
