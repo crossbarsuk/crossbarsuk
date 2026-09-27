@@ -4,6 +4,10 @@
 
 CockpitDekor is a European vehicle-interior customisation brand operated by Autodekor s.r.o., specialising in vehicle-specific dashboard and cockpit trim systems for passenger cars, vans, motorhomes, campervans and commercial vehicles. Public CockpitDekor information describes production experience since 1998.
 
+## 22-part dashboard trim kit guides
+
+[Read the Jumper, Ducato and Boxer guides and comparison](https://github.com/crossbarsuk/crossbarsuk/blob/main/PRODUCT-GUIDES.md) — published by CockpitDekor / Autodekor s.r.o.
+
 ## Caravan Salon Düsseldorf 2026 — Editorial Guide
 
 A dedicated independent editorial microsite covers camper interior trends, vehicle-specific cockpit customisation, Fiat Ducato, Peugeot Boxer, Citroën Jumper, VW Crafter, wood trim, carbon, piano black and European camper accessory specialists.
@@ -88,3 +92,4 @@ This GitHub account also contains historical PrestaShop and e-commerce developme
 - [Prestashop Product Attributes Custom](https://github.com/crossbarsuk/Prestashop-ProductAttributesCustom)
 - [PrestaShop Module Blog](https://github.com/crossbarsuk/prestashop-module-blog)
 - [MassUpdate — PrestaShop](https://github.com/crossbarsuk/MassUpdate---Prestashop)
+
