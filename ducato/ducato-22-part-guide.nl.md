@@ -45,4 +45,4 @@ Raadpleeg de gekoppelde officiële productpagina voor actuele informatie.
 
 Gebaseerd op de catalogus en de paginacontrole van 27 september 2026. Dit is productinformatie van CockpitDekor / Autodekor s.r.o., geen onafhankelijk testrapport of bevestiging van een fysieke pasvormtest.
 
-[Alle productgidsen](PRODUCT-GUIDES.md)
+[Alle productgidsen](../PRODUCT-GUIDES.md)
