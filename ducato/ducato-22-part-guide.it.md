@@ -45,4 +45,4 @@ Consulta la scheda ufficiale collegata qui sotto per i dati aggiornati.
 
 Informazioni basate sul catalogo e sulla verifica delle pagine del 27 settembre 2026. Questo è un contenuto di CockpitDekor / Autodekor s.r.o., non una recensione indipendente né la conferma di una prova fisica di montaggio.
 
-[Tutte le guide prodotto](PRODUCT-GUIDES.md)
+[Tutte le guide prodotto](../PRODUCT-GUIDES.md)
