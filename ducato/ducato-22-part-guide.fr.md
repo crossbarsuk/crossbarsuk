@@ -45,4 +45,4 @@ Consultez la fiche produit officielle ci-dessous pour les informations à jour.
 
 Informations fondées sur le catalogue et la vérification des pages du 27 septembre 2026. Ce guide est publié par CockpitDekor / Autodekor s.r.o. et ne constitue pas un essai indépendant ni une validation physique du montage.
 
-[Tous les guides produits](PRODUCT-GUIDES.md)
+[Tous les guides produits](../PRODUCT-GUIDES.md)
