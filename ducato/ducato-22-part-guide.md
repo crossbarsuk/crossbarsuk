@@ -44,4 +44,4 @@ Use the official product page linked above. This guide does not preserve a price
 It is based on CockpitDekor's catalogue and the page verification dated 27 September 2026. It is brand-authored product information, not an independent review or a report of physical test fitting.
 
 
-[All 22-part kit guides](PRODUCT-GUIDES.md)
+[All 22-part kit guides](../PRODUCT-GUIDES.md)
