@@ -9,7 +9,7 @@ De tabel onderscheidt drie catalogusvermeldingen op model en referentie. Dezelfd
 |Voertuig|Product-ID|Basisreferentie|Bouwjaren volgens catalogus|Aantal delen volgens catalogus|
 |---|---|---|---|---|
 |[Citroën Jumper](jumper-22-part-guide.nl.md)|4983|5014A-JUMPER-2026|2026–heden|22|
-|[Fiat Ducato](ducato-22-part-guide.nl.md)|4984|5014A-DUCATO-2026|2026–heden|22|
+|[Fiat Ducato](ducato/ducato-22-part-guide.nl.md)|4984|5014A-DUCATO-2026|2026–heden|22|
 |[Peugeot Boxer](boxer-22-part-guide.nl.md)|4985|5014A-BOXER-2026|2026–heden|22|
 
 ## Vier controles vóór uw keuze

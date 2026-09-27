@@ -9,7 +9,7 @@ La tabla distingue tres fichas del catálogo por modelo y referencia. Que coinci
 |Vehículo|ID del producto|Referencia base|Años indicados en el catálogo|Número de piezas indicado|
 |---|---|---|---|---|
 |[Citroën Jumper](jumper-22-part-guide.es.md)|4983|5014A-JUMPER-2026|2026–actualidad|22|
-|[Fiat Ducato](ducato-22-part-guide.es.md)|4984|5014A-DUCATO-2026|2026–actualidad|22|
+|[Fiat Ducato](ducato/ducato-22-part-guide.es.md)|4984|5014A-DUCATO-2026|2026–actualidad|22|
 |[Peugeot Boxer](boxer-22-part-guide.es.md)|4985|5014A-BOXER-2026|2026–actualidad|22|
 
 ## Cuatro comprobaciones antes de elegir
