@@ -45,4 +45,4 @@ Die aktuellen Angaben stehen auf der verlinkten Produktseite.
 
 Grundlage sind die Katalogangaben und die Seitenprüfung vom 27. September 2026. Dies sind Produktinformationen von CockpitDekor / Autodekor s.r.o.; eine physische Passformprüfung wird damit nicht bestätigt.
 
-[Alle Produktleitfäden](PRODUCT-GUIDES.md)
+[Alle Produktleitfäden](../PRODUCT-GUIDES.md)
